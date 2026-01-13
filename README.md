@@ -1,16 +1,39 @@
-## Hi there 👋
+# Profile Overview
 
-<!--
-**aminebensbaho/aminebensbaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data-oriented engineer in structured transition toward finance and analytics roles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notice
+
+This GitHub account contains projects and experiments from different stages of my learning path.
+
+Starting from this point, the profile is being intentionally reorganized to reflect a clear, long-term technical direction focused on data, mathematics, and finance-oriented roles.
+
+Older repositories may remain visible for transparency, but new work will follow stricter structure, documentation, and professional standards.
+
+---
+
+## Current Focus
+
+- Strengthening mathematical foundations (linear algebra, probability)
+- Applied data analysis and modeling
+- Clean, well-documented Python projects
+- Preparation for data-oriented roles in the Luxembourg market
+
+---
+
+## Core Technologies
+
+- Python
+- SQL
+- Git & GitHub
+- Data analysis (pandas, numpy)
+
+---
+
+## How to Read This Profile
+
+- New repositories represent my current professional direction
+- Projects are intentionally limited and curated
+- Each repository includes a clear README explaining objectives, scope, and decisions
